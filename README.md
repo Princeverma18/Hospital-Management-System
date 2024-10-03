@@ -6,11 +6,13 @@ The Hospital Management System is a desktop application designed to manage vario
 
 ## Features
 
-- **Patient Registration:** Add new patients and maintain their records.
-- **Appointment Management:** Schedule and manage appointments for patients with doctors.
-- **Medical Records:** Store and retrieve patient medical history and treatment records.
-- **Doctor Management:** Manage doctor details and availability.
-- **User Authentication:** Secure login for admin and staff users.
+- **Patient Info:** Manage and store patient information, including personal details and medical history.
+- **Reception:** Handle reception tasks, including patient check-in and appointment scheduling.
+- **Ambulance Management:** Coordinate and manage ambulance services for patient transportation.
+- **Update Patient Detail:** Easily update patient information as needed.
+- **Employee Info:** Maintain records of hospital employees, including their roles and contact details.
+- **Room Management:** Manage room assignments and availability for patients.
+- **Patient Discharge:** Process patient discharge and update records accordingly.
   
 ## Technologies Used
 
