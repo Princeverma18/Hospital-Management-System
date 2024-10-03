@@ -23,4 +23,4 @@ The Hospital Management System is a desktop application designed to manage vario
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
+   git clone https://github.com/Princeverma18/hospital-management-system.git
